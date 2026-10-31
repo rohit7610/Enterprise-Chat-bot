@@ -84,6 +84,7 @@ Enterprise-Chatbot/
 The project may require API keys depending on the integrations enabled.
 
 | Variable | Description |
+|---|---|
 | GROQ_API_KEY | API key for Groq LLM access |
 | TAVILY_API_KEY | API key for web search integration |
 
@@ -96,5 +97,3 @@ The project may require API keys depending on the integrations enabled.
 - Deployment for production environments
 
 ---
-
-⭐ If you find this project useful, consider giving it a star!
